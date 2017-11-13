@@ -1,2 +1,2 @@
-# WBR-token
+# WBC-token
 This is the token breakdown (PRIME)
